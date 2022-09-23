@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    font-family: pattaya;
+}
+p{
+    font-family: 'Roboto Mono', monospace;
+}
+.btn{
+    background-color: #9453a6;
+}
+.btn:hover{
+    background-color: #f2cc0f
+}
+
+#my-img1{
+    height: 30vw;
+    width: 35vw;
+
+}
+#my-img2{
+    height: 45vw;
+
+}
+#my-img3{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+#my-img4{
+    border-radius: 50%;
+    width: 250px;
+    height: 260px;
+}
+#my-img5{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    ;
+}
+#title-1{
+    font-family: pattaya;
+}
+#text-1{
+    font-family: 'Roboto Mono', monospace;
+}
+#title-2{
+    font-family: pattaya;
+    padding-left: 3vw;
+
+}
+#text-2{
+    font-family: 'Roboto Mono', monospace;
+    padding-left: 3vw;
+}
+#title-3{
+    font-family: pattaya;
+}
+#text-3{
+    font-family: 'Roboto Mono', monospace;
+}

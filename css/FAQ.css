@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-color: #f2cc0f;
+}
+#myDiv{
+padding-left: 15vw;
+padding-top: 10vh;
+
+}
+#cont-1{
+    background-color: #9453a6;
+   width: 70vw;
+   font-family: 'Roboto Mono', monospace;
+   color:black;
+   border-radius: 10px;
+}
+#cont-2{
+    background-color: #9453a6;
+   width: 70vw;
+   font-family: 'Roboto Mono', monospace;
+   border-radius: 10px;
+}
+
+#cont-3{
+    background-color:  #9453a6;
+   width: 70vw;
+   font-family: 'Roboto Mono', monospace;
+   border-radius: 10px;
+}
+
+#cont-4{
+    background-color: #9453a6;
+   width: 70vw;
+   font-family: 'Roboto Mono', monospace;
+   border-radius: 10px;
+}
+#cont-5{
+    background-color: #9453a6;
+   width: 70vw;
+   font-family: 'Roboto Mono', monospace;
+   border-radius: 10px;
+}

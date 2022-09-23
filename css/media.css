@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #8cbf3f;
+}
+#my-span {
+    font-size: 70px;
+    font-family: 'Pattaya', sans-serif;
+
+}
+
+
+.my-img{
+    height: 25vh;
+    width: 20vw;
+}
+.my-img:hover{
+    transition: 2s;
+    scale: 200%;
+}
+#img-container{
+    margin-top: 50px;
+}
+#col-1{
+    margin-left: 100px;
+}
+#col-2{
+margin: 10px;
+}
+#col-3{
+margin: 10px;
+}
+#txt-end{
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
